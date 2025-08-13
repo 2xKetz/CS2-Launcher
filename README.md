@@ -72,8 +72,8 @@ No alt-tabbing, no manual changes — pure focus on the game.
 
 ## 📞 Contact
 [![GitHub](https://img.shields.io/badge/GitHub-2xKetz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2xKetz)
-[![Steam](https://img.shields.io/badge/Steam-Profile-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/YOURSTEAMID)
-[![Discord](https://img.shields.io/badge/Discord-2xKetz-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOURDISCORD)
+[![Steam](https://img.shields.io/badge/Steam-Profile-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/2xKetz)
+[![Discord](https://img.shields.io/badge/Discord-2xKetz-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2xketz)
 
 ---
 
